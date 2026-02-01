@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/Ta-Achariya/DPU-Assignment.git
-cd hospital-middleware
+cd DPU-Assignment
 ```
 
 ### 2. Environment Setup
